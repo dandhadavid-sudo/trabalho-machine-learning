@@ -53,6 +53,10 @@ As seguintes métricas foram utilizadas:
 - F1-Score
 - Matriz de Confusão
 
+## Matriz de Confusão
+
+![Matriz de Confusão](matriz_confusao.png)
+
 ## Resultados
 
 Os resultados demonstraram que o modelo foi capaz de identificar corretamente a maior parte dos sentimentos presentes nos textos analisados.
